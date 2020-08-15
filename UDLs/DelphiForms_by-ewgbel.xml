@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">activepage align alignment alignwithmargins anchors autosize bevelouter bitmap cancel caption checked color columnclick columns constraints constraints.maxheight constraints.maxwidth constraints.minheight constraints.minwidth ctl3d cursor customhint default defaultext designsize doublebuffered editlabel.caption editlabel.height editlabel.width enabled explicitheight explicitleft explicitleft explicittop explicittop explicitwidth filter finalcolor font.charset font.color font.height font.name font.style glyph.data gridlines height helpcontext helpkeyword helptype hideselection hint imageindex itemheight itemindex items.strings kind labelposition layout left lines.strings lowercolor margins margins.bottom margins.left margins.right margins.top max min minwidth multiline numglyphs options pagesize parent parentbackground parentcolor parentctl3d parentcustomhint parentdoublebuffered parentfont parentshowhint position positiontooltip readonly rowselect scrollbars showhint showselrange state style tabgroup taborder tabposition tabstop tabwidth tag text tickstyle title top transparent uppercolor viewstyle visible width wordwrap</Keywords>
+            <Keywords name="Keywords1"></Keywords>
             <Keywords name="Keywords2">on</Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4">true false</Keywords>
